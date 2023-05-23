@@ -1,5 +1,12 @@
 export const WorkData = [
 	{
+		title: "Todo Web",
+		desc: "an eCommerce website's backend part with multiple APIs.",
+		tech: ["React JS"],
+		gitlink: "https://github.com/Pooja-sisodia/Todo-Website.git",
+		site: "https://todo-weblist.netlify.app/",
+	},
+	{
 		title: "Product Management",
 		desc: "an eCommerce website's backend part with multiple APIs.",
 		tech: ["NodeJs", "MongoDb", "ExpressJs", "AWS", "Axios"],
