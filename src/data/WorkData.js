@@ -23,28 +23,28 @@ export const WorkData = [
 
 	{
 		title: "Product Management",
-		desc: "an eCommerce website's backend part with multiple APIs.",
+		desc: "Streamline your product lifecycle and drive success with our comprehensive product management website.",
 		tech: ["NodeJs", "MongoDb", "ExpressJs", "AWS", "Axios"],
 		gitlink: "https://github.com/Pooja-sisodia/Shopping-Cart/tree/shopping-cart",
 		site: "https://github.com/Pooja-sisodia/Shopping-Cart/tree/shopping-cart",
 	},
 	{
 		title: "Blogging Site",
-		desc: "A blog website where you can post your ideas and view those of others",
+		desc: "Unleash your thoughts and passions with our versatile blogging platform, where your voice finds a global audience.",
 		tech: ["NodeJs", "MongoDb", "ExpressJs"],
 		gitlink: "https://github.com/Pooja-sisodia/mini-blogsite-group-5/tree/project-1/mini-blog-site",
 		site: "https://github.com/Pooja-sisodia/mini-blogsite-group-5/tree/project-1/mini-blog-site",
 	},
 	{
 		title: "Book Management",
-		desc: "books library website where users can give review on books.",
+		desc: "Elevate your reading experience with our intuitive book management website, where your literary collection finds organization and inspiration.",
 		tech: ["NodeJs", "MongoDb", "ExpressJs"],
 		gitlink: "https://github.com/Pooja-sisodia/Project-Books-Management/tree/project/booksManagement",
 		site: "https://github.com/Pooja-sisodia/Project-Books-Management/tree/project/booksManagement",
 	},
 	{
 		title: "URL Shortner",
-		desc: "A website to short long URLs",
+		desc: "Simplify and share links effortlessly with our efficient URL shortener website.",
 		tech: ["NodeJs", "MongoDb", "ExpressJs", "Redis", "Axios"],
 		gitlink: "https://github.com/Pooja-sisodia/ShortUrl-Project/tree/project/urlShortner",
 		site: "https://github.com/Pooja-sisodia/ShortUrl-Project/tree/project/urlShortner",
