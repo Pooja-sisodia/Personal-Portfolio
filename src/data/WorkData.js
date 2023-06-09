@@ -1,5 +1,13 @@
 export const WorkData = [
 	{
+		title: "Weather forcasting Website",
+		desc: "Stay ahead of the weather with our accurate and reliable forecasting management website.",
+		tech: ["React JS", "HTML", "CSS", "JAVASCRIPT"],
+		gitlink: "https://github.com/Pooja-sisodia/Weather-Forcasting.git",
+		site: "https://weatherfetchingweb.netlify.app/",
+	},
+
+	{
 		title: "Todo Web",
 		desc: "Your all-in-one task management solution for organizing, tracking, and completing your to-do list.",
 		tech: ["React JS", "HTML", "CSS", "JAVASCRIPT"],
